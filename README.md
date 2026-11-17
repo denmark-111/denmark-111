@@ -10,7 +10,7 @@ I'm particularly interested in web development, backend systems, and cloud techn
 
 **Languages:** JavaScript, TypeScript, PHP, Java, Kotlin, C#, C++, SQL  
 **Frontend:** React, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, Laravel, REST APIs, Prisma  
+**Backend:** Node.js, Nest.js, Express, Laravel, REST APIs, Prisma  
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Deployment & Services:** Supabase, Vercel, Render  
 **Tools:** Git, GitHub, Linux (Ubuntu/WSL), VS Code, Postman
