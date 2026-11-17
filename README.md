@@ -13,4 +13,4 @@ I'm particularly interested in web development, backend systems, and cloud techn
 **Backend:** Node.js, Nest.js, Express, Laravel, REST APIs, Prisma  
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Deployment & Services:** Supabase, Vercel, Render  
-**Tools:** Git, GitHub, Linux (Ubuntu/WSL), VS Code, Postman
+**Tools:** Git, GitHub, Linux (Ubuntu/WSL), VS Code, Postman, Bruno
